@@ -1,5 +1,7 @@
 ## Hi there 👋
 新しく作成
+現在特にルールは規定しておりません。今後規定していきます。Σ(ﾟдﾟlll)ｶﾞｰﾝ
+
 <!--
 
 **Here are some ideas to get you started:**
